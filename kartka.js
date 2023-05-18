@@ -4,8 +4,8 @@ import kaboom from "https://unpkg.com/kaboom/dist/kaboom.mjs";
 kaboom();
 
 loadSprite("background","Background.jpg")
-loadSprite("santa","santa.png")
-loadSound("music", "music.mp3")
+loadSprite("santa","Santa.png")
+loadSound("music", "Music.mp3")
 
 add([
     sprite("background")
